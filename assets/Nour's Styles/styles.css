@@ -7,15 +7,15 @@ nav a:hover {
     color: red;
 }
 
+section {
+    display: flex;
+    justify-content: center;
+}
+
 article {
-    display: inline-block;
     border: 1px, dotted, black; 
 }
 
 article img {
     height: 400px;
-}
-
-figure {
-    width: 35%;
 }
