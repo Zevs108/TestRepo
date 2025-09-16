@@ -1,0 +1,17 @@
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: red;
+}
+
+article {
+    display: inline-block;
+    border: 1px, dotted, black; 
+}
+
+article img {
+    height: 400px;
+}
