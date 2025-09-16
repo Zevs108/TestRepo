@@ -15,3 +15,7 @@ article {
 article img {
     height: 400px;
 }
+
+figure {
+    width: 35%;
+}
